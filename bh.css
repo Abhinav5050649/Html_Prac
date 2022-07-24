@@ -1,0 +1,15 @@
+h1{
+	background: red;
+	border: 5px solid blue;
+}
+
+body{
+	/*background: aquamarine;*/
+	background: url(https://img.freepik.com/free-vector/underwater-background-water-surface-ocean-sea_33099-1755.jpg?w=2000);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+ul{
+	background: violet;
+}
